@@ -1,24 +1,27 @@
 # About official AMOS Professional Source Code repository.
-> On 2020.04.26, François Lionet officially released Amos Professional source code on his own GitHub repository under MIT Licence type as it was initially planed by himself many years ago.
-> The link to get access to the official AMOS-Professional-Offical repository Source Code is here : https://github.com/Francaoz/AMOS-Professional-Official
-> The original AMOS-Professional-Official licence (in the README.md is included at the end of this file.
+> On 2020.04.26, François Lionet officially released Amos Professional source code on his own GitHub repository under MIT Licence type as it was initially planed by himself many years ago.<br>
+> The link to get access to the official AMOS-Professional-Offical repository Source Code is here : https://github.com/Francaoz/AMOS-Professional-Official<br>
+> The original AMOS-Professional-Official licence (in the README.md is included at the end of this file.<br>
 
 # About AMOS Professional AGA support.
-> The project that did initially takes the name "Amos Professional X" was stopped. With the official release of Amos Professional under MIT Licence, I have reopened this project. As some people asked me I cannot do what I want with the "Amos Professional" name (even if the MIT Licence allow me to do changes), I decided to remove the X and simply add 'AGA' as a natural name to mean that the main goal of this update is to add AGA support to François Lionet AMOS Professional.
+> The project that did initially takes the name "Amos Professional X" was stopped. With the official release of Amos Professional under MIT Licence, I have reopened this project. As some people asked me I cannot do what I want with the "Amos Professional" name (even if I think the MIT Licence allow me to do the X change in the name), I decided to remove the X and simply add 'AGA' as a natural name to mean that the main goal of this project is to add AGA support to François Lionet AMOS Professional.<br>
+AGA is not a name changing, but just an information to help finding easily AGA support for AMOS Professional repository.
 
-> I have much respect about the huge amount of work François did to create AMOS and AMOS Professional but, for the moment, and in respect to the MIT Licence terms capabilityes (source : https://github.com/Francaoz/AMOS-Professional-Official/blob/master/LICENSE seen in the GitHub box about MIT Licence "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code." ), I consider that improving AMOS Professional with AGA support is a larger work as it require me to makes many changes in many components of the AMOS Professional engine. With that. I prefer not release the source code for the moment. Source code will probably be released for "educational purposes" when the project will be finished (and more especially because it was initially planed with the AMOS Factory team to include this major update inside their major updates)
+> I have much respect about the huge amount of work François did to create AMOS and AMOS Professional but, for the moment, and in respect to the MIT Licence terms capabilities (source : https://github.com/Francaoz/AMOS-Professional-Official/blob/master/LICENSE seen in the GitHub box about MIT Licence "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code." ) and not restricted by licence information added by François, I consider that improving AMOS Professional with AGA support is a larger work as it require me to makes many changes in many components of the AMOS Professional engine (copper list, sprites, bob, iff/ilbm, load/save datas, internal structures, etc.).<br>
+With these, I prefer not release the source code for the moment.<br>
+Source code will probably be released for "educational purposes" when the project will be finished (and more especially because it was initially planed with the AMOS Factory team to include this major update inside their major updates, and I want to respect this engagment with the AMOS Factory team)
 
-> The current repository now contain the latest version that was done under Amos Professional X, originally forked from marc365 repository, from where François Lionet also based his official release.
-It is a restart of the whole project concerning AGA support, and as it is a "free time" development (not commercial), I can promise nothing about future releases/updates dates.
+> The current repository now contain the latest version that was done under Amos Professional X, originally forked from marc365 repository, from where François Lionet also based his official release.<br>
 
-I hope that everything will be ok with François Lionet now as I don't want to steal his work. Just protect mine.
+>It is a restart of the whole project concerning AGA support, and as it is a "free time" development (not commercial), I can promise nothing about future releases/updates dates.
+
+>I hope that everything will be ok with François Lionet now as I don't want to steal his work. Just protect mine. I hope he can understand this.
 
 Regards,
 Freddix
 
 
-#Original AMOS-Professional-Official Licence copy :
-
+#Original AMOS-Professional-Official Licence copy from README.md file :
 
 ### Welcome to the official AMOS Professional source code repository.
 
