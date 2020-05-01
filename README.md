@@ -2,6 +2,7 @@
 > On 2020.04.26, François Lionet officially released Amos Professional source code on his own GitHub repository under MIT Licence type as it was initially planed by himself many years ago.<br>
 > The link to get access to the official AMOS-Professional-Offical repository Source Code is here : https://github.com/Francaoz/AMOS-Professional-Official<br>
 > The original AMOS-Professional-Official licence (in the README.md is included at the end of this file.<br>
+> On 2020.05.01 François Lionet announced officially on his Facebook Page that he gives to Colin Vella the responsability to handle the Amos Professional Official Source Code GitHub repoitory. ( https://www.facebook.com/photo.php?fbid=10222434008617360&set=a.3542674563888&type=3&theater )
 
 # About AMOS Professional AGA support.
 > The project that did initially takes the name "Amos Professional X" was stopped. With the official release of Amos Professional under MIT Licence, I have reopened this project. As some people asked me I cannot do what I want with the "Amos Professional" name (even if I think the MIT Licence allow me to do the X change in the name), I decided to remove the X and simply add 'AGA' as a natural name to mean that the main goal of this project is to add AGA support to François Lionet AMOS Professional.<br>
