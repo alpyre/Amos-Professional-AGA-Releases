@@ -12,11 +12,21 @@ For the moment Source code is private but it will be released under the original
 With these, I prefer not release the source code for the moment.<br>
 Source code will probably be released for "educational purposes" when the project will be finished (and more especially because it was initially planed with the AMOS Factory team to include this major update inside their major updates, and I want to respect this engagment with the AMOS Factory team)
 
-> The current repository now contain the latest version that was done under Amos Professional X, originally forked from marc365 repository, from where François Lionet also based his official release.<br>
+# 2020.05.06 : Project reorganization
 
+During integration of AGA support to the original Amos Professional 2.00 (ECS), I discovered that due to the fact that AMOS Professional uses static structures for datas such as packed screen, blitter objects, icons, screens, but not only these; I had to made changes that did potentially break double direction compatibility between original Amos Professional 2.00 (ECS) and new Amos Professional 3.00 AGA (X version). Rework entirely the bank system and data structure to be dynamic should be too long, and may not assure a total compatibility between original Amos Professional 2.00 (ECS) and new Amos Professional 3.00 AGA (X version).
+
+This problem forces me to take a decision concerning the future of the development of AGA support for Amos Professional :
+
+ I must proceed to a complete reorganization of both Source Code,  and file names for the releases.
+
+This mean, for example, that the new Amos Professional AGA 3.00 will use an AmosProAGA.library instead of the original AMOS.library.
+This was required to be sure that any Amiga users can have both original Amos Professional 2.00  (ECS) and Amos Professional 3.00 AGA (X version) capable of running without conflicts on the same computer.
+It also ensures that games already developed under the original Amos Professional 2.00  (ECS) can run without problem when Amos Professional 2.0 AGA (X version) is also installed in the computer configuration.
+This reorganization also required to update the editor, interpreter and compiler configuration files with a new name including AGA inside, for the same reasons than the ones explained above.
 >It is a restart of the whole project concerning AGA support, and as it is a "free time" development (not commercial), I can promise nothing about future releases/updates dates.
 
->I hope that everything will be ok with François Lionet now as I don't want to steal his work. Just protect mine. I hope he can understand this.
+I hope that everything will be ok with François Lionet now as I don't want to steal his work. Just protect mine. I hope he can understand this.
 
 François Lionet MIT Licence is available in this project, in the file Licence.txt
 The Amos Professional AGA (X version) project ia distribued under MIT License with Closed source.
