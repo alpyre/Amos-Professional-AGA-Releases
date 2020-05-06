@@ -21,9 +21,9 @@ Source code will probably be released for "educational purposes" when the projec
 Regards,
 Freddix
 
-
-#Original AMOS-Professional-Official Licence copy from README.md file :
-
+# **********************************************************************
+# Original AMOS-Professional-Official Licence copy from README.md file :
+ 
 ### Welcome to the official AMOS Professional source code repository.
 
 You will find in this repository the entire source code of AMOS Professional, as it was on my machine at the end of 1993 when I decided to switch to PC and create Klik and Play with my partner Yves Lamoureux.
